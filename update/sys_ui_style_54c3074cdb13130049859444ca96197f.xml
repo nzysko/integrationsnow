@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>number</element>
+        <name>x_118253_github_integrationtest</name>
+        <style>background-color:red;&#13;
+font-size:24px;&#13;
+color:white;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-10 02:07:08</sys_created_on>
+        <sys_id>54c3074cdb13130049859444ca96197f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_118253_github_integrationtest</sys_name>
+        <sys_package display_value="GitHub" source="x_118253_github">3024fe80db13130049859444ca9619c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub">3024fe80db13130049859444ca9619c5</sys_scope>
+        <sys_update_name>sys_ui_style_54c3074cdb13130049859444ca96197f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-10 02:07:08</sys_updated_on>
+        <value>javascript:current.state== 1</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=54c3074cdb13130049859444ca96197f"/>
+</record_update>
