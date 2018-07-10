@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Integrationtest" max_length="40" name="x_118253_github_integrationtest" type="collection">
+        <element label="Last SSN" max_length="40" name="last_ssn" type="string"/>
+        <element label="Social Security number" max_length="40" name="social_security_number" type="string"/>
+    </element>
+</database>
